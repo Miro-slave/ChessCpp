@@ -1,1 +1,2 @@
 # ChessCpp
+Console online chess
