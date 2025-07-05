@@ -1,6 +1,14 @@
-# ChessCpp
-Console online chess for windows platform
+# Онлайн шахматы
 
-![image](https://github.com/user-attachments/assets/7bf75024-e883-43ce-937e-99ab8fc3d122)
+Клиент игры "Шахматы", поддерживающий подключение по протоколам tcp/ip.
 
-Requires Boost.Asio to be installed
+
+## Отображение
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7bf75024-e883-43ce-937e-99ab8fc3d122" alt="Sublime's custom image"/>
+</p>
+
+
+
+В качестве библиотеки для сетевого взаимодействия используется [Boost.Asio](https://github.com/boostorg/asio.git)
